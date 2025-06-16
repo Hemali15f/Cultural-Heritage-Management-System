@@ -64,6 +64,3 @@ Project is modularized with module-info.java
 DAO layer encapsulates all SQL queries for each entity
 
 GUI is not included; this is a console or backend-oriented system
-
-🙋 Team
-Refer to Team members.txt for the list of contributors.
